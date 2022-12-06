@@ -194,7 +194,7 @@ body {
     }
     .main-container {
         width: calc(100% - 20px);
-        height: 1040px;
+        height: 1140px;
         position: absolute;
         left: 10px;
         top: 10px;
